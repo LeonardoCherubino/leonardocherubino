@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on sales
 - 🌱 I’m currently learning python, ruby, learn machinne and english.
 - 👯 I’m looking to collaborate on eletronic security.
-- 🤔 I’m looking for help with python, ruby, learn mechine and english.
+- 🤔 I’m looking for help with python, ruby, learn machine and english.
 - 💬 Ask me about anything.
 - 📫 How to reach me: leonardocherubino@gmail.com
 - 😄 Pronouns: He, you.
